@@ -73,7 +73,7 @@ class _HomeState extends State<Home> {
                 decoration: BoxDecoration(
                   border: Border.all(color: Color.fromRGBO(70, 68, 68, 1)),
                   boxShadow:[BoxShadow(
-                    color: Colors.white;
+                    color: Colors.white,
                     offset: Offset(10, 10),
                     blurRadius: 15,
                     spreadRadius: 10
